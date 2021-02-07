@@ -1,3 +1,5 @@
+# Contextualized Self-Supervision for Link Prediction
+
 To guarantee experimental reproducibility, in this folder, we provide the python source codes and datasets for the KDD submission "Contextualized Self-Supervision for Link Prediction".
 
 This project is built on the open source graph machine learning library StellarGraph. To run this code, please first install StellarGraph from https://github.com/stellargraph/stellargraph
