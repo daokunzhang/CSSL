@@ -1,6 +1,6 @@
-# Link Prediction with Contextualized Self-supervision
+# Link Prediction with Contextualized Self-Supervision
 
-This project provides the python source codes and datasets for the TKDE paper "Link Prediction with Contextualized Self-supervision".
+This project provides the python source codes and datasets for the TKDE paper "Link Prediction with Contextualized Self-Supervision".
 
 This project is built on the open source graph machine learning library StellarGraph. To run this code, please first install StellarGraph from https://github.com/stellargraph/stellargraph
 
